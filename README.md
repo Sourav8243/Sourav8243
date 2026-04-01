@@ -1,47 +1,123 @@
-### 👋 Hi there, I'm Sourav Kumar!
+# 👋 Hi, I'm Sourav Kumar
+
+🎓 M.Tech Student in Artificial Intelligence & Machine Learning  
+💻 AI/ML Engineer | Full-Stack Developer | Data Enthusiast  
 
 ---
 
-![](https://github.com/Sourav8243)
+## 🚀 About Me
 
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+I am a Master's student specializing in Artificial Intelligence and Machine Learning with strong experience in:
 
-<h3>My most recent articles</h3>
-<ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Getting Started with React: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
+- Machine Learning & Data Analysis  
+- Full-Stack Web Development  
+- Scalable Application Development  
+- IoT-based Smart Systems  
 
-<h3>My GitHub contributions summary</h3>
+I enjoy building intelligent, data-driven solutions and working on real-world impactful projects.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+- Python
+- Java
+- C / C++
+- JavaScript
+
+### 🤖 AI & Machine Learning
+- Data Preprocessing & EDA  
+- Model Evaluation  
+- Neural Networks (ANN, CNN, RNN)
+
+### 🌐 Full-Stack Development
+- Frontend: React.js, HTML5, CSS3, Bootstrap  
+- Backend: Node.js, Java (Spring Boot, J2EE)  
+- REST APIs  
+
+### 🗄️ Databases & Cloud
+- MySQL, SQL  
+- Google Cloud Platform  
+- Microsoft Azure  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+- IntelliJ IDEA  
+- Eclipse  
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Full Stack Developer Intern – ExcelR Solutions (Jan 2024 – Jun 2024)
+- Built responsive UI using React, JavaScript, HTML, CSS  
+- Developed backend using Spring Boot, Hibernate, JDBC  
+- Created dynamic web applications with Servlets & JSP  
+
+### 🔹 Java Developer Intern – Oasis Infobyte (May 2023 – Jul 2023)
+- Developed Java applications using OOP principles  
+- Improved scalability and code reusability  
+- Worked with version control and debugging tools  
+
+---
+
+## 📌 Projects
+
+### 🩺 Chronic Disease Monitoring System (IoT + Mobile App)
+- Built IoT system using ESP32 for real-time health tracking  
+- Monitored heart rate, SpO₂, temperature, and fall detection  
+- Developed React app with Firebase backend for live data & alerts  
+
+---
+
+### 🌍 TravelBuddy – Tourism Web Application
+- Created a travel platform with curated destinations  
+- Built responsive UI using React, HTML, CSS, JS  
+- Integrated backend using Node.js  
+
+---
+
+### ⚡ Reboot Point – EV Charging Station App
+- Developed UI for EV charging booking platform  
+- Implemented search & booking functionality  
+- Focused on usability and performance optimization  
+
+---
+
+## 🏆 Achievements
+
+- 🥈 1st Runner-Up – Rasverse Ideafind+ National Hackathon  
+- 🏅 Top 15 Finalist – HackRocket Hackathon (472+ teams)  
+
+---
+
+## 📜 Certifications
+
+- Java Programming – AICPE  
+- C & C++ Programming – AICPE  
+- Azure Fundamentals – Microsoft  
+- Google Cloud Facilitator Program  
+- Employability Enhancement Program  
+
+---
+
+## 🎓 Education
+
+- 🎓 M.Tech in AI & ML – Lovely Professional University (2025–Present)  
+- 🎓 B.Tech in CSE – Global Engineering College (2020–2024)  
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: souravthakur.kumar8243@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/sourav-kumar-8b2691137  
+- 💻 GitHub: https://github.com/Sourav8243  
+
+---
+
+## ⚡ Fun Fact
+
+I love combining AI with real-world applications like healthcare and smart systems 🚀
